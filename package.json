@@ -1,5 +1,6 @@
 {
   "name": "spectacle-boilerplate",
+  "homepage": "marckimbrey.github.io/tic-tac-toe-presentation",
   "version": "1.0.1",
   "description": "ReactJS Powered Presentation Framework",
   "main": "lib/index.js",
